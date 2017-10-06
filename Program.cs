@@ -7,10 +7,19 @@ namespace ProjetoForm
     {
         static void Main(string[] args)
         {
+            string Nome=CadastroNome();
             string Genero=CadastroGenero();
             string RG=CadastroRG();
             string CPF=CadastroCPF();
         }
+        static string CadastroNome(){
+            string nome;
+
+            nome = Console.ReadLine();
+            
+            return nome;
+        }
+
         static string CadastroGenero()
         {
             string X;

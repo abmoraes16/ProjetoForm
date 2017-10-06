@@ -8,3 +8,13 @@ c:\Users\FIC\Desktop\BackA\Week_1\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoFor
 c:\Users\FIC\Desktop\BackA\Week_1\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.AssemblyInfo.cs
 c:\Users\FIC\Desktop\BackA\Week_1\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.dll
 c:\Users\FIC\Desktop\BackA\Week_1\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.pdb
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\bin\Debug\netcoreapp2.0\ProjetoForm.deps.json
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\bin\Debug\netcoreapp2.0\ProjetoForm.runtimeconfig.json
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\bin\Debug\netcoreapp2.0\ProjetoForm.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\bin\Debug\netcoreapp2.0\ProjetoForm.dll
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\bin\Debug\netcoreapp2.0\ProjetoForm.pdb
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.AssemblyInfo.cs
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.dll
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoForm\obj\Debug\netcoreapp2.0\ProjetoForm.pdb
