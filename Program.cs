@@ -11,6 +11,7 @@ namespace ProjetoForm
             string Genero=CadastroGenero();
             string RG=CadastroRG();
             string CPF=CadastroCPF();
+            string Endereco=CadastroEndereco();
         }
         static string CadastroNome(){
             string nome;
@@ -40,6 +41,13 @@ namespace ProjetoForm
             Console.WriteLine("Digite seu CPF: ");
             X=Console.ReadLine();
             return X;
+        }
+
+        static string CadastroEndereco(){
+            string endereco;
+            Console.WriteLine("Digite seu endereco: ");
+            endereco = Console.ReadLine();
+            return endereco;
         }
     }
 }
