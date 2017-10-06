@@ -8,7 +8,8 @@ namespace ProjetoForm
         static void Main(string[] args)
         {
             string Genero=CadastroGenero();
-            double RG=CadastroRG();
+            string RG=CadastroRG();
+            string CPF=CadastroCPF();
         }
         static string CadastroGenero()
         {
@@ -17,11 +18,18 @@ namespace ProjetoForm
             X=Console.ReadLine();
             return X;
         }
-        static double CadastroRG()
+        static string CadastroRG()
         {
-            double X;
-            Console.WriteLine("Digite seu Gênero: ");
-            X=double.Parse(Console.ReadLine());
+            string X;
+            Console.WriteLine("Digite seu RG: ");
+            X=Console.ReadLine();
+            return X;
+        }
+        static string CadastroCPF()
+        {
+            string X;
+            Console.WriteLine("Digite seu CPF: ");
+            X=Console.ReadLine();
             return X;
         }
     }
