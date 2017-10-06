@@ -11,12 +11,12 @@ namespace ProjetoForm
             string Genero=CadastroGenero();
             string RG=CadastroRG();
             string CPF=CadastroCPF();
+            string EstadoCivil=CadastroEstadoCivil();
+            string Profissao=CadastroProfissao();
         }
         static string CadastroNome(){
             string nome;
-
             nome = Console.ReadLine();
-            
             return nome;
         }
 
@@ -38,6 +38,20 @@ namespace ProjetoForm
         {
             string X;
             Console.WriteLine("Digite seu CPF: ");
+            X=Console.ReadLine();
+            return X;
+        }
+        static string CadastroEstadoCivil()
+        {
+            string X;
+            Console.WriteLine("Digite seu Estado Civil: ");
+            X=Console.ReadLine();
+            return X;
+        }
+        static string CadastroProfissao()
+        {
+            string X;
+            Console.WriteLine("Digite sua Profissão: ");
             X=Console.ReadLine();
             return X;
         }
