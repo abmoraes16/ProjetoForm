@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\ProjetoAula\\ProjetoForm\\ProjetoForm.csproj",
+      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\ProjetoAula\\ProjetoForm\\ProjetoForm.csproj",
       "projectName": "ProjetoForm",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\ProjetoAula\\ProjetoForm\\ProjetoForm.csproj",
+      "projectPath": "c:\\Users\\FIC\\Desktop\\ProjetoAula\\ProjetoForm\\ProjetoForm.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIC\\Desktop\\ProjetoAula\\ProjetoForm\\obj\\",
+      "outputPath": "c:\\Users\\FIC\\Desktop\\ProjetoAula\\ProjetoForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
